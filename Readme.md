@@ -1,0 +1,1 @@
+This is an Automation repository to test end to end functionlities of FinTech Project
